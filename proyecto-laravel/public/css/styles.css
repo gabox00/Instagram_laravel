@@ -1,0 +1,16 @@
+.avatar{
+    object-fit: cover;
+}
+
+form .avatar{
+    width: 100px;
+}
+
+.avatar-box .avatar{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 900px;
+}
+
+
